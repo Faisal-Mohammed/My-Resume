@@ -1,4 +1,4 @@
 # My-Resume
 My First simple resume built using HTML &amp; CSS
 
-![Resume](https://user-images.githubusercontent.com/66154406/83876504-96f6bc80-a756-11ea-9278-c52853bf88a9.png)
+![Resume](https://user-images.githubusercontent.com/66154406/83876819-0cfb2380-a757-11ea-96ff-eb98f7a1cdb3.png)
